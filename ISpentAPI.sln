@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.1.32407.343
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ISpentAPI", "ISpentAPI\ISpentAPI.csproj", "{EA6296A1-0179-454E-8926-7C19B902B245}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{EA6296A1-0179-454E-8926-7C19B902B245}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{EA6296A1-0179-454E-8926-7C19B902B245}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{EA6296A1-0179-454E-8926-7C19B902B245}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{EA6296A1-0179-454E-8926-7C19B902B245}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {DD330466-19A0-4A79-9D1E-4026F228854A}
+	EndGlobalSection
+EndGlobal
